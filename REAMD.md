@@ -18,7 +18,7 @@ TypeScript中文官方地址：https://www.typescriptlang.org/zh/
 
 地址：https://www.typescriptlang.org/zh/play
 
-![](/Users/liujianwei/Documents/personal_code/learn-ts/docs/1.png)
+![](./docs/1.png)
 
 
 
